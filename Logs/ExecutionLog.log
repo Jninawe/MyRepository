@@ -1,0 +1,28 @@
+2024-08-13 07:00:49,079 - Cover Fox -INFO - Opening Browser
+2024-08-13 07:00:56,036 - Cover Fox -INFO - Clicking on gender button
+2024-08-13 07:00:57,155 - Cover Fox -INFO - Clicking on next button
+2024-08-13 07:00:58,711 - Cover Fox -WARN - Enter age between 18 to 50 years
+2024-08-13 07:00:58,712 - Cover Fox -INFO - Handeling the age drop down
+2024-08-13 07:00:58,797 - Cover Fox -INFO - Clicking on next button
+2024-08-13 07:00:59,991 - Cover Fox -WARN - Enter the valid pin code
+2024-08-13 07:00:59,991 - Cover Fox -INFO - Enter the pin code
+2024-08-13 07:01:00,148 - Cover Fox -WARN - Enter the valid mobile no.
+2024-08-13 07:01:00,167 - Cover Fox -INFO - Enter the mobile number
+2024-08-13 07:01:00,287 - Cover Fox -INFO - Clicking on next button
+2024-08-13 07:01:02,705 - Cover Fox -INFO - Validating the presence of sort button
+2024-08-13 07:01:03,782 - Cover Fox -INFO - Validating the banners
+2024-08-13 07:01:03,785 - Cover Fox -INFO - Closing the browser
+2024-08-13 07:02:11,721 - Cover Fox -INFO - Opening Browser
+2024-08-13 07:02:20,875 - Cover Fox -INFO - Clicking on gender button
+2024-08-13 07:02:22,129 - Cover Fox -INFO - Clicking on next button
+2024-08-13 07:02:23,351 - Cover Fox -WARN - Enter age between 18 to 50 years
+2024-08-13 07:02:23,352 - Cover Fox -INFO - Handeling the age drop down
+2024-08-13 07:02:23,408 - Cover Fox -INFO - Clicking on next button
+2024-08-13 07:02:24,545 - Cover Fox -WARN - Enter the valid pin code
+2024-08-13 07:02:24,546 - Cover Fox -INFO - Enter the pin code
+2024-08-13 07:02:24,641 - Cover Fox -WARN - Enter the valid mobile no.
+2024-08-13 07:02:24,641 - Cover Fox -INFO - Enter the mobile number
+2024-08-13 07:02:24,717 - Cover Fox -INFO - Clicking on next button
+2024-08-13 07:02:26,800 - Cover Fox -INFO - Validating the presence of sort button
+2024-08-13 07:02:27,878 - Cover Fox -INFO - Validating the banners
+2024-08-13 07:02:27,880 - Cover Fox -INFO - Closing the browser

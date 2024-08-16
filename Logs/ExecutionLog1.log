@@ -1,0 +1,28 @@
+2024-08-13 07:00:49,079 [main] INFO Cover Fox - Opening Browser
+2024-08-13 07:00:56,036 [main] INFO Cover Fox - Clicking on gender button
+2024-08-13 07:00:57,155 [main] INFO Cover Fox - Clicking on next button
+2024-08-13 07:00:58,711 [main] WARN Cover Fox - Enter age between 18 to 50 years
+2024-08-13 07:00:58,712 [main] INFO Cover Fox - Handeling the age drop down
+2024-08-13 07:00:58,797 [main] INFO Cover Fox - Clicking on next button
+2024-08-13 07:00:59,991 [main] WARN Cover Fox - Enter the valid pin code
+2024-08-13 07:00:59,991 [main] INFO Cover Fox - Enter the pin code
+2024-08-13 07:01:00,148 [main] WARN Cover Fox - Enter the valid mobile no.
+2024-08-13 07:01:00,167 [main] INFO Cover Fox - Enter the mobile number
+2024-08-13 07:01:00,287 [main] INFO Cover Fox - Clicking on next button
+2024-08-13 07:01:02,705 [main] INFO Cover Fox - Validating the presence of sort button
+2024-08-13 07:01:03,782 [main] INFO Cover Fox - Validating the banners
+2024-08-13 07:01:03,785 [main] INFO Cover Fox - Closing the browser
+2024-08-13 07:02:11,721 [main] INFO Cover Fox - Opening Browser
+2024-08-13 07:02:20,875 [main] INFO Cover Fox - Clicking on gender button
+2024-08-13 07:02:22,129 [main] INFO Cover Fox - Clicking on next button
+2024-08-13 07:02:23,351 [main] WARN Cover Fox - Enter age between 18 to 50 years
+2024-08-13 07:02:23,352 [main] INFO Cover Fox - Handeling the age drop down
+2024-08-13 07:02:23,408 [main] INFO Cover Fox - Clicking on next button
+2024-08-13 07:02:24,545 [main] WARN Cover Fox - Enter the valid pin code
+2024-08-13 07:02:24,546 [main] INFO Cover Fox - Enter the pin code
+2024-08-13 07:02:24,641 [main] WARN Cover Fox - Enter the valid mobile no.
+2024-08-13 07:02:24,641 [main] INFO Cover Fox - Enter the mobile number
+2024-08-13 07:02:24,717 [main] INFO Cover Fox - Clicking on next button
+2024-08-13 07:02:26,800 [main] INFO Cover Fox - Validating the presence of sort button
+2024-08-13 07:02:27,878 [main] INFO Cover Fox - Validating the banners
+2024-08-13 07:02:27,880 [main] INFO Cover Fox - Closing the browser

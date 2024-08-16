@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching browser]]>
+    </line>
+    <line>
+      <![CDATA[waiting...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Gender Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Handeling the drop down]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering the pincode]]>
+    </line>
+    <line>
+      <![CDATA[Entering the mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Click on next button]]>
+    </line>
+    <line>
+      <![CDATA[Checking if sortPlanFilterIsDisplayed]]>
+    </line>
+    <line>
+      <![CDATA[Getting plan number from banner]]>
+    </line>
+    <line>
+      <![CDATA[Getting plan number from string]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-13T07:02:11 IST" name="Suite" finished-at="2024-08-13T07:02:29 IST" duration-ms="17511">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T07:02:11 IST" name="Test" finished-at="2024-08-13T07:02:29 IST" duration-ms="17511">
+      <class name="coverFoxTest.coverFoxTestng_TC1">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.coverFoxTestng_TC1@4562e04d]" started-at="2024-08-13T07:02:11 IST" name="launchBrowser" finished-at="2024-08-13T07:02:20 IST" duration-ms="8472" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser]]>
+            </line>
+            <line>
+              <![CDATA[waiting...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:coverFoxTest.coverFoxTestng_TC1@4562e04d]" started-at="2024-08-13T07:02:20 IST" name="precondition" finished-at="2024-08-13T07:02:25 IST" duration-ms="5623" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Gender Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[Handeling the drop down]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering the pincode]]>
+            </line>
+            <line>
+              <![CDATA[Entering the mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Click on next button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="vaildatePresenceofsortbutton()[pri:0, instance:coverFoxTest.coverFoxTestng_TC1@4562e04d]" started-at="2024-08-13T07:02:25 IST" name="vaildatePresenceofsortbutton" finished-at="2024-08-13T07:02:26 IST" duration-ms="1058" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Checking if sortPlanFilterIsDisplayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vaildatePresenceofsortbutton -->
+        <test-method signature="validateBanner()[pri:0, instance:coverFoxTest.coverFoxTestng_TC1@4562e04d]" started-at="2024-08-13T07:02:26 IST" name="validateBanner" finished-at="2024-08-13T07:02:27 IST" duration-ms="1075" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Getting plan number from banner]]>
+            </line>
+            <line>
+              <![CDATA[Getting plan number from string]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateBanner -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:coverFoxTest.coverFoxTestng_TC1@4562e04d]" started-at="2024-08-13T07:02:27 IST" name="closebrowser" finished-at="2024-08-13T07:02:29 IST" duration-ms="1194" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- coverFoxTest.coverFoxTestng_TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
